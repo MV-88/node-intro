@@ -1,0 +1,21 @@
+install franc
+
+read documentation and figure out how it works
+
+language code given (not name);
+
+install langs
+
+color code?
+
+try to take arg from command line
+
+process arg v???
+
+enter arg into franc
+get 3 letter code
+pass it to lang
+get language,
+
+
+langs.where('3', 'language code from franc')
