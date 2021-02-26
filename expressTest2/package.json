@@ -1,0 +1,14 @@
+{
+  "name": "expresstest2",
+  "version": "1.0.0",
+  "description": "test setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
